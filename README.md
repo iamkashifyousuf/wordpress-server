@@ -15,7 +15,7 @@
 ### 1. Clone the Repository
 ```
 git clone https://github.com/iamkashifyousuf/wordpress-server.git
-cd your-repository
+cd wordpress-server
 ```
 
 ### 2. Running the Services
@@ -27,5 +27,11 @@ docker-compose up -d
 ### 3. Accessing WordPress
 ### Open your web browser and navigate to http://localhost:8000. You should see the WordPress setup page. Follow the on-screen instructions to complete the setup.
 
+### 4. Stop the Service and Delete Containers
+### Press Ctrl + C
+### To delete containers
+```
+docker-compose down
+```
 
 
