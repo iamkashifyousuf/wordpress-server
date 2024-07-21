@@ -1,4 +1,4 @@
-# __WordPress with MySQL using Docker Compose__
+# __Creating a WordPress Server with MySQL using Docker & Docker Compose__
 ### This repository contains a docker-compose.yml file to set up a WordPress site with a MySQL database. Using Docker Compose allows you to easily start and manage the services needed for running WordPress.
 ## __Overview__
 ### This setup involves two main services:
@@ -34,4 +34,9 @@ docker-compose up -d
 docker-compose down
 ```
 
+## __Star the Repository__
+## Click on the ⭐️ button at the top right corner of this page to show your support.
+
+## __Contributing__
+### Contributions are welcome! Please feel free to submit a Pull Request.
 
